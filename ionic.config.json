@@ -1,0 +1,7 @@
+{
+  "name": "coc_administrator",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
